@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "lowdurabilitywarning",
+	"version": "1.0.0",
+	"name": "Low Durability Warning",
+	"description": "Alerts when item durability is critically low",
+	"authors": ["Astralis"],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lowdurabilitywarning/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.astralis.lowdurabilitywarning.LowDurabilityWarningMod"],
+		"modmenu": ["com.astralis.lowdurabilitywarning.LowDurabilityModMenuIntegration"]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
