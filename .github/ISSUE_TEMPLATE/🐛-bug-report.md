@@ -12,7 +12,11 @@ A clear and concise description of what the bug is.
 
 ## To Reproduce
 Steps to reproduce the behavior:
-
+1. Use a tool/weapon until low durability
+2. Check if warning appears
+3. Check warning customization options
+4. See error
+   
 ## Expected Behavior
 What should have happened instead?
 
