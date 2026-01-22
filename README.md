@@ -1,4 +1,4 @@
-# Low Durability Warning
+![#Low Durability Warning](https://cdn.modrinth.com/data/cached_images/90b2386b03d86f2615ac95935a9784f838239193.png)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
@@ -77,5 +77,6 @@ Please include:
 Licensed under MIT License. See [LICENSE](LICENSE) for details.
 
 ---
+
 
 *"Because a broken pickaxe mid-mining is the real final boss."*
