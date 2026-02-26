@@ -1,4 +1,4 @@
-![#Low Durability Warning](https://cdn.modrinth.com/data/cached_images/90b2386b03d86f2615ac95935a9784f838239193.png)
+![#Low Durability Warning](https://cdn.modrinth.com/data/cached_images/01c5ae26ddbc4955293f5a4dd0ca7e0af46aa81c.png)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-green)
 ![Fabric](https://img.shields.io/badge/Modloader-Fabric-blue)
@@ -29,7 +29,7 @@ Never be surprised by broken tools again! This mod provides customizable alerts 
 
 1. Install [Fabric Loader](https://fabricmc.net/use/)
 2. Install [Fabric API](https://modrinth.com/mod/fabric-api)
-3. Download from [Modrinth](https://modrinth.com/mod/lowdurabilitywarning)
+3. Download [Low Durability Warning](https://modrinth.com/mod/low-durability-warning/versions)
 4. Place the JAR file in your `.minecraft/mods/` folder
 
 ## ⚙️ Configuration
@@ -77,6 +77,5 @@ Please include:
 Licensed under MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
 
 *"Because a broken pickaxe mid-mining is the real final boss."*
